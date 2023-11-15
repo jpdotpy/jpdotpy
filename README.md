@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpdotpy
-- 😈 Completely new to coding/programming
+- 😈 Completely new to coding/programming (started 11/1/23)
 - 👀 I’m interested in Python, ML, MySQL, AI, data science, and the business applications of such.
 - 🌱 I’m currently learning Python by working on projects relevant to my business
 - ⚔️ For right now, I’m looking to collaborate on automation scripts, web scraping scripts, data analysis, etc to grow my skills.
