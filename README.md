@@ -5,14 +5,12 @@
 - ⚔️ For right now, I’m looking to collaborate on automation scripts, web scraping scripts, data analysis, etc to grow my skills.
 - 📱 How to reach me X/Twitter: @jphoopla__
 
-  name: Work Stats Readme
-
+name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
     # Runs every 2 hours
     - cron: "0 */2 * * *"
-
 jobs:
   update-readme:
     name: Update this repo's README
@@ -20,7 +18,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.JP_WAKATIME}}
 
 <!---
 jpdotpy/jpdotpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
