@@ -5,7 +5,7 @@
 - ⚔️ For right now, I’m looking to collaborate on automation scripts, web scraping scripts, data analysis, etc to grow my skills.
 - 📱 How to reach me X/Twitter: @jphoopla__
 
-name: Work Stats Readme
+``` name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
