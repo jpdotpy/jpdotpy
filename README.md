@@ -1,5 +1,4 @@
-- 🫡 I’m @jpdotpy
-- 😈 Completely new to coding/programming (started 11/1/23)
+-shipper
 
   
 
